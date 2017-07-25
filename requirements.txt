@@ -1,0 +1,2 @@
+pyftpsync==1.0.3
+pyftpdlib==1.5.2
