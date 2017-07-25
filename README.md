@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 ```
 python server.py
 ```
-#####Device B
+##### Device B
 Sync changes from device A to B
 ```
 python sync.py --ip IP_ADDRESS --port PORT
